@@ -60,7 +60,7 @@ Here is the output without specifying an analyser, you can see the bytes :
 
 ![Output](https://raw.githubusercontent.com/yanngarras/SerialPortComBridge/main/img/output.png)
 
-When specifying ana analyser, the data will be "decoded" : 
+When specifying an analyser, the data will be "decoded" : 
 ![Output](https://raw.githubusercontent.com/yanngarras/SerialPortComBridge/main/img/output_with_analyser.png)
 
 
@@ -68,10 +68,4 @@ When specifying ana analyser, the data will be "decoded" :
 
 PR are welcome :-)
 
-Analysers are simple class that need to implement 2 methods. It would be nice to have more analyysers like Async Serial, 1-Wire, ...
-
-## Contribute
-
-PR are welcomes :-)
-
-Analysers are simple class that need to implement 2 methods. It would be nice to have more analyysers like Async Serial, 1-Wire, ...
+Analysers are simple class that need to implement 2 methods. It would be nice to have more analysers like Async Serial, 1-Wire, ...
