@@ -13,7 +13,7 @@ Sometimes, an application communicates with a device via a serial communication 
 
 Because this tool makes a bridge between two ports, if you use an application connected directly to a device on a port, you will need to create 2 virtuals ports. This can be done via the opensource project com0com (https://sourceforge.net/projects/com0com/)
 
-Once it's done, connect the application to one the virtual ports thenyou can launch this tool to bridge the second virtual port and the physical port. 
+Once it's done, connect the application to one of the virtuals ports then you can launch this tool to bridge the second virtual port and the physical port. 
 
 Here is the worflow : 
 
